@@ -1,4 +1,12 @@
-### Hi there 👋
+### 💻 Welcome Rustaceans and other dev's! 🦀
+
+**I am a computer science student currently excited to learn about:**
+- 🦀 Rust
+- 🎮 Game Development
+- 🔐 Cybersecurity
+- 🖥️ App Development
+
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ap0ll02&show_icons=true&theme=radical)
 
 <!--
 **Ap0ll02/Ap0ll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
