@@ -1,10 +1,14 @@
 ### 💻 Welcome Rustaceans and other dev's! 🦀
 
 **I am a computer science student currently excited to learn about:**
-- 🦀 Rust
+- 🦀 Rust, Python, C++
 - 🎮 Game Development
 - 🔐 Cybersecurity
 - 🖥️ App Development
+
+### Currently Running: *EndeavourOS*
+
+### I am currently learning the ICED-Rust GUI library
 
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ap0ll02&show_icons=true&theme=radical)
 <br>
