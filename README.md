@@ -8,8 +8,6 @@
 
 Currently Running: ***EndeavourOS***
 
-I am currently learning the ICED-Rust GUI library
-
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ap0ll02&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ap0ll02&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
