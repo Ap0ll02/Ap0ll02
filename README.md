@@ -1,6 +1,6 @@
 ### Apollo
 
-![Jack's GitHub stats](https://github-readme-stats-blue-ten-23.vercel.app/api?username=Ap0ll02&show_icons=true&theme=radical)
+![Jack's GitHub stats](https://github-readme-stats-blue-ten-23.vercel.app/api?username=Ap0ll02)
 <br>
 [![Top Langs](https://github-readme-stats-blue-ten-23.vercel.app/api/top-langs/?username=Ap0ll02&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
