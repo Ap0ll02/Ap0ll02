@@ -1,4 +1,6 @@
-### Apollo
+### About Me!
+
+Hello, I am Jack, a computer science student at UNR. I enjoy compilers, game development, and general human computer interaction!
 
 ![Jack's GitHub stats](https://github-readme-stats-blue-ten-23.vercel.app/api?username=Ap0ll02&theme=holi)
 <br>
