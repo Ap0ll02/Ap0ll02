@@ -1,21 +1,17 @@
-### About Me!
+## ⚙️ Languages & Tools
 
-Hello, I am Jack, a computer science student at UNR. I enjoy compilers, game development, and general human computer interaction!
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-![Jack's GitHub stats](https://github-readme-stats-blue-ten-23.vercel.app/api?username=Ap0ll02&theme=holi)
-<br>
-[![Top Langs](https://github-readme-stats-blue-ten-23.vercel.app/api/top-langs/?username=Ap0ll02&theme=holi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Ap0ll02/Ap0ll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Compiler & Systems Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Parsing](https://img.shields.io/badge/Parsing-Recursive%20Descent-critical?style=for-the-badge)
+![Closures](https://img.shields.io/badge/Closures-Upvalue%20Tracking-orange?style=for-the-badge)
+![Runtime](https://img.shields.io/badge/Runtime-Environment%20Design-blue?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-VM%20%7C%20Native-purple?style=for-the-badge)
+![Philosophy](https://img.shields.io/badge/Philosophy-Know%20What%20The%20Machine%20Is%20Doing-informational?style=for-the-badge)
